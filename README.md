@@ -2,6 +2,7 @@
 Tutorial for mapping resources in R
 
 Sections: 
+
 0) How to adapt this script to your computer 
 1) What is spatial data?
 2) Tidying spatial data 
